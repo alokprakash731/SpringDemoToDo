@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: TodoApp
+
+server:
+  port: ${PORT:8089}
